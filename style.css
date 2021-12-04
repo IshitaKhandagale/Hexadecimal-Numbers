@@ -1,0 +1,23 @@
+.header{
+  background-color: #a681d1;
+  display:flex;
+  justify-content: space-between
+}
+
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    background-color: #666666
+}
+
+p,h2{
+    text-align: center;
+   color: #8d2342;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    background-color: #9025a5
+}
